@@ -1,0 +1,13 @@
+
+.pane-container {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  background: pink;
+  height:100vh;
+}
+
+.left-pane-container ul,
+li {
+  list-style: none;
+}
